@@ -8,6 +8,12 @@ const App = () => {
     <div>
       <header> 
         <a href=""> HOME </a>
+        <a href=""> HOME </a>
+        <a href=""> HOME </a>
+        <a href=""> HOME </a>
+        <a href=""> HOME </a>
+        <a href=""> HOME </a>
+        <a href=""> HOME </a>
       </header>
     </div>
   )
