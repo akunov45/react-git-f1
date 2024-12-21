@@ -15,6 +15,10 @@ const App = () => {
         <a href=""> HOME </a>
         <a href=""> HOME </a>
       </header>
+
+      <footer>
+        FOOOTER
+      </footer>
     </div>
   )
 }
